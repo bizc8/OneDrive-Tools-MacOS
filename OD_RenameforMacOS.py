@@ -1,3 +1,5 @@
+# This python application renames files with invalid characters in OneDrive for MacOS
+
 import os
 import getpass
 import tkinter as tk
